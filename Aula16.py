@@ -1,0 +1,13 @@
+'''
+VARIÁVEIS COMPOSTAS (TUPLAS)
+"AS TUPLAS SÃO IMUTÁVEIS" ELAS NÃO PODEM MUDAR!
+
+A VARIÁVEL COMPOSTA PODE COMEÇAR DE 3 MANEIRAS: 
+() - TUPLA
+[] - LISTA
+{} - DICIONÁRIO 
+
+'''
+# PRÁTICA
+
+lanche = ('hamburguer', 'suco', 'pizza', 'pudim')
