@@ -30,7 +30,7 @@ def maneira3(): #No enumerate ele me dá a posição e o dado
     for pos, comida in enumerate (lanche): 
         print(f'Eu vou comer {comida} na posição {pos}')
 
-maneira3()
+maneira2()
 
 #MOSTRA A TUPLA DE MODO ORDENADO
 lanche = ('hamburguer', 'suco', 'pizza', 'pudim')
