@@ -11,8 +11,18 @@ A VARIÁVEL COMPOSTA PODE COMEÇAR DE 3 MANEIRAS:
 # COMO FAZER PARA APAGAR UMA TUPLA -> (DEL nome_da_tupla)  
 
 NA VERSÃO DO PYTHON DO MEU NOT, A TUPLA RODA SEM A PRESENÇA DOS PARENTESE, MAS POR PADRÃO IREI USAR ASSIM MESMO
+
+EXEMPLOS DE TUPLAS:
+*váriavel:
+lanche = ('hamburguer', 'suco', 'pizza', 'pudim')
+
+*pro sistema:
+lanche = 0, 1, 2, 3
+
+
 '''
 # PRÁTICA
+
 #TUPLA
 def maneira1():
 #TUPLA COM FOR
