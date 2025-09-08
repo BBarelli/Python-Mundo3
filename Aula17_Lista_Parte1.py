@@ -93,3 +93,21 @@ print(valores)
 valores = list(range(0, 11, 2)) #Cria uma lista do 0 ao 10 de 2 em 2
 print(valores)
 
+def valores1():
+    valores = []
+    valores.append(4)
+    valores.append(5)
+    valores.append(6)
+
+    for i, v in enumerate(valores): #(i: índice, v: valor)
+        print(f'Na posição {i} encontrei o valor {v}!')
+    print('Cheguei ao final da lista.')
+
+def valores2():
+    valores = []
+    for i in range (0, 6):
+        valores.append(int(input('Digite um valor: ')))
+    print(valores)
+    print('Fim da lista')
+
+valores2()
